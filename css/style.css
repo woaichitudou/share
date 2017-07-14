@@ -298,6 +298,9 @@ body{
     line-height: 1.4rem;
     margin-bottom: 2rem;
 }
+.sm {
+    padding-bottom: 62px;
+}
 .sm p+p{
     width: 90%;
     text-align: center;
@@ -325,4 +328,107 @@ body{
     box-shadow: 0 3px 0 #c68429;
     font-weight: bold;
     color: #333;
+}
+.title-box{
+    width: 100%;
+    height: 2rem;
+    background: #ff9140;
+}
+.title{
+    width: 90%;
+    height: 2rem;
+    margin:0 auto;
+    font-size: 0.9rem;
+    color: #fff; 
+    line-height: 2rem;
+
+}
+.shuju{
+    width: 100%;
+    height: 12.8rem;
+    background:#ff9140;
+    text-align: center;
+}
+.money{
+    font-size: 2rem;
+    color: #fff;
+}
+.moneya{
+    font-size: 1rem;
+    color: #fff;
+}
+.shuju-box1{
+    width: 100%;
+    float: left;
+}
+.shuju-box{
+    width: 50%;
+    float: left;
+    height: 5.2rem;
+    text-align: center;
+}
+.shuju-box:nth-child(2){
+    border-bottom: 1px solid #fff;
+}
+.shuju-box:nth-child(3){
+    border-left: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    margin-left: -1px;
+}
+.shuju-box:nth-child(5){
+    border-left: 1px solid #fff;
+    margin-left: -1px;
+}
+.shuju-box li{
+    color: #fff;
+    font-size: 1rem;
+    line-height: 3rem;
+}
+.shuju-box span{
+    color: #fff;
+    font-size: 1rem;
+}
+.liebiao{
+    padding-bottom: 61px;
+    width: 90%;
+    margin:0 auto;
+}
+.liebiao li{
+    border-bottom: 1px solid #ebebeb;
+    height: 3rem;
+    width: 100%;
+    line-height: 3rem;
+    font-size: 0.9rem;
+}
+.liebiao li i{
+    font-size: 1.2rem;
+    line-height: 3rem;
+    float: left;
+
+}
+.liebiao li span{
+    float: left;
+    text-indent: 1rem;
+    font-size: 0.9rem;
+    display: inline-block;
+    color: #333;
+}
+.liebiao li i:nth-child(3){
+    float: right;
+    margin-right: 5%;
+}
+.i1{
+    color: #1e8dff;
+}
+.i2{
+    color: #e81a4b;
+}
+.i3{
+    color: #0bb21a;
+}
+.i4{
+    color: #f7a528;
+}
+.i5{
+    color: #8541cc;
 }
