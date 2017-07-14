@@ -290,3 +290,39 @@ body{
     height: 100%;
     display: block;
 }
+.a1{
+    width: 90%;
+    font-size: 0.9rem;
+    color:#856c47;
+    margin:0 auto;
+    line-height: 1.4rem;
+    margin-bottom: 2rem;
+}
+.sm p+p{
+    width: 90%;
+    text-align: center;
+    font-size: 0.9rem;
+    color:#856c47;
+    margin:0 auto;
+    line-height: 1.4rem;
+}
+.sm p+p>span{
+    font-size: 1rem;
+    color: #fa8b30;
+    font-weight: bold;
+    margin-top: 1rem;
+    display:inline-block;
+}
+.sm li{
+    width: 30%;
+    height:1.8rem;
+    line-height: 1.8rem;
+    border-radius: 10px;
+    text-align: center;
+    margin:0 auto;
+    background: #f5ce39;
+    margin-top: 30px;
+    box-shadow: 0 3px 0 #c68429;
+    font-weight: bold;
+    color: #333;
+}
