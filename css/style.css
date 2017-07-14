@@ -133,3 +133,151 @@ body{
     font-size: 0.8rem;
     color: #999999;
 }
+.icon{
+    width: 100%;
+    height: 8rem;
+    background: url(../images/bg.jpg)no-repeat;
+    background-size: 100%;
+}
+.icon-box{
+    width: 85%;
+    height: 100%;
+    margin:0 auto;
+    position: relative;
+}
+.iconImg{
+    width: 4.4rem;
+    height: 4.4rem;
+    border-radius: 50%;
+    border:1px solid #fab57c;
+    float: left;
+    margin-top: 1.8rem;
+}
+.iconImgs{
+    width: 3.4rem;
+    height: 3.4rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin:0.5rem 0 0 0.5rem;
+}
+.iconImgs img{
+    width: 3.4rem;
+    height: 3.4rem;
+}
+.name{
+    float: left;
+    color: #fff;
+    font-size: 0.9rem;
+    margin-top: 2.4rem;
+    margin-left: 0.6rem;
+}
+.id{
+    float: left;
+    width: 65%;
+    color: #fff;
+    font-size: 0.9rem;
+    margin-left: 0.6rem;
+    margin-top: 0.4rem;
+}
+.id span{
+    margin-left: 0.2rem;
+}
+.icon-box>i{
+    font-size: 1rem;
+    color: #fff;
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    margin-top: -2rem;
+}
+.bill{
+    width: 100%;
+    height: 6.75rem;
+    border-bottom: 1px solid #ffa463;
+}
+.bill-box{
+    width: 24.5%;
+    float: left;
+    height: 2rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+.bill-box+.bill-box{
+    border-left: 1px solid #eee3dd;
+}
+.bill-box p{
+    line-height: 1.2rem;
+}
+.bill-box span,.bill-box p{
+    font-size: 0.8rem;
+    color: #bbbbbb;
+}
+.bill-box i{
+    display: block;
+    font-size: 1.6rem;
+    color: #fca464;
+    margin-top: -1.6rem;
+}
+.operation{
+    width: 100%;
+    height: 12.18rem;
+}
+.operation-box{
+    float: left;
+    width: 25%;
+    margin-top: 1.375rem;
+    height: 4.4rem;
+    text-align: center;
+}
+.operation-box p{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    margin:0 auto;
+    text-align: center;
+}
+.operation-box a span{
+    font-size: 0.8rem;
+    color: #4d4d4d;
+    line-height: 1.6rem;
+
+}
+.operation-box p i{
+    color: #fff;
+    font-size: 1.4rem;
+    line-height: 2.5rem;
+    
+}
+.p1{
+        background: #f9b552;
+}
+.p2{
+        background: #b4d465;
+}
+.p3{
+        background: #f29ec2;
+}
+.p4{
+        background: #7ecef3;
+}
+.p5{
+        background: #f29c9f;
+}
+.p6{
+        background: #f39b77;
+}
+.p7{
+        background: #84ccc9;
+}
+.p8{
+        background: #a596db;
+}
+.tishi{
+    width: 100%;
+    height: 2rem;
+    line-height: 2rem;
+    color: #fda462;
+    font-size: 0.8rem;
+    text-indent: 1rem;
+    background: #feeedf;
+}
