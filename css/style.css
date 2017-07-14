@@ -74,6 +74,7 @@ body{
     position: fixed;
     top: 0;
     overflow: hidden;
+    z-index: 999;
 }
 .nav a{
     width: 15.5%;
