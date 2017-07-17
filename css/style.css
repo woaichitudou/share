@@ -742,3 +742,125 @@ body{
     display: block;
     margin-top: 1rem;
 }
+.release-box{
+    width: 90%;
+    height: auto;
+    overflow: auto;
+    margin:0 auto;
+    margin-top: 1rem;
+}
+.release-box label{
+    font-size: 0.9rem;
+    color: #323232;
+    float: left;
+    display: inline-block;
+}
+.release-box span{
+    font-size: 0.8rem;
+    color: #cccccc;
+    float: right;
+}
+.release-box input{
+    width: 98%;
+    height:1.5rem;
+    border: none;
+    border: 1px solid #ebebeb;
+    background: #f5f5f5;
+    line-height: 1rem;
+    border-radius: 0;
+    text-indent: 1rem;
+    -webkit-appearance: none;
+    font-size: 0.8rem;
+    float: left;
+    color: #333;
+    outline: none;
+    resize: none;
+    display: block;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.release-box ul{
+    width: 100%;
+    margin-top: 25px;
+    overflow: auto;
+}
+.release-box ul li{
+    width:17%;
+    margin-left: 2%;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    background: #f5f5f5;
+    float: left;
+    line-height: 1.5rem;
+    text-align: center;
+    color: #989898;
+}
+.release-box textarea{
+    width: 98%;
+    height: 8rem;
+    font-size: 0.8rem;
+    resize:none;
+    text-indent: 1rem;
+    line-height: 20px;
+    outline:none;
+    border-radius: 0;
+    border: none;
+    border: 1px solid #ccc;
+    -webkit-appearance:none;
+    resize:none;
+    border-radius:5px;
+    background: #f5f5f5;
+    margin-top: 15px;
+}
+.vr{
+    padding-bottom:90px;
+}
+.release-box button{
+    width: 40%;
+    height:2rem;
+    background: #999999;
+    float: left;
+    margin-left: 5%;
+    border: none;
+    line-height: 2rem;
+    border-radius: 0;
+    -webkit-appearance: none;
+    font-size: 0.8rem;
+    float: left;
+    outline: none;
+    resize: none;
+    display: block;
+    border-radius: 15px;
+    color: #fff;
+}
+.cs{
+    background: #ff9140!important;
+}
+.text{
+    width: 90%;
+    margin:0 auto;
+    margin-top: 1rem;
+}
+.text h3{
+    font-size: 0.9rem;
+    color: #fc0000;
+}
+.text p{
+    font-size: 0.8rem;
+    color: #333;
+    line-height: 1.2rem;
+}
+.ma{
+    width: 90%;
+    height:2rem;
+    text-align: center;
+    line-height: 2rem;
+    color: #fff;
+    background: #ff9140;
+    margin:0 auto;
+    border-radius: 15px;
+    margin-top: 1rem;
+}
+.padding{
+    padding-bottom: 80px;
+}
