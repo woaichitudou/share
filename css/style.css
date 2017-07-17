@@ -924,3 +924,78 @@ body{
 .padding-t{
     padding-top: 5rem;
 }
+.tixiansm{
+    width: 100%;
+    height: 3rem;
+    background: #fff;
+    border-bottom: 1px solid #ebebeb;
+    padding:0.5rem 0;
+}
+.tixiansm p{
+    width: 90%;
+    margin:0 auto;
+    font-size: 0.8rem;
+    line-height: 1.4rem;
+
+}
+.tixiansm p a{
+    color: #308dec;
+}
+.tixianye{
+    width: 100%;
+    height: 3rem;
+    background: #fff;
+    border-bottom: 1px solid #ff9140;
+    padding:0.5rem 0;
+}
+.tixianye-box{
+    width: 90%;
+    margin:0 auto;
+    font-size: 0.8rem;
+    line-height:3rem;
+}
+.tixianye-box span,.tixianye-box p,.tixianye-box a{
+    display:inline-block;
+}
+.tixianye-box span{
+    font-size: 0.9rem;
+    color: #333;
+}
+.tixianye-box p{
+    font-size: 1.2rem;
+    color: #fe0000;
+}
+.tixianye-box a{
+    width: 5rem;
+    height: 1.8rem;
+    background: #ff9140;
+    color: #fff;
+    text-align: center;
+    line-height: 1.8rem;
+    border-radius: 15px;
+    float: right;
+    margin-top: 0.5rem;
+}
+.biao1{
+    width: 100%;
+    background: #fff;
+}
+.biao1 tr{
+    height: 2rem;
+
+}
+.biao1 tr th{
+    text-align: center;
+    line-height: 2.4rem;
+    color: #333333;
+    font-size: 0.9rem;
+
+
+}
+.biao1 tr td{
+    text-align: center;
+    line-height: 2.2rem;
+    color: #999999;
+    font-size: 0.8rem;
+
+}
