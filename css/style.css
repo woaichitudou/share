@@ -864,3 +864,63 @@ body{
 .padding{
     padding-bottom: 80px;
 }
+.text-box{
+    width: 100%;
+    height: 100%;
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background: url(../images/z2.jpg)no-repeat;
+    background-size: 100%;
+    background-position: 0;
+}
+.texta{
+    width: 90%;
+    margin:0 auto;
+    margin-top: 1rem;
+}
+.texta h3{
+    font-size: 0.9rem;
+    color: #31893b;
+}
+.texta p{
+    font-size: 0.8rem;
+    color: #333;
+    line-height: 1.8rem;
+}
+.texta span{
+    font-size: 0.8rem;
+    color:#E56600;
+    line-height: 1.2rem;
+}
+.gongnue{
+    width: 90%;
+    margin:0 auto;
+    margin-top: 1rem;
+    position: relative;
+}
+.gongnue img{
+    width: 8rem;
+    height: 6rem;
+    display: block;
+    position: absolute;
+    left: 50%;
+    margin-left: -4rem;
+}
+.gongnue span{
+    width: 8rem;
+    height: 4rem;
+    display: block;
+    text-align: center;
+    line-height: 5rem;
+    position: absolute;
+    left: 50%;
+    margin-left: -4rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #489239;
+}
+.padding-t{
+    padding-top: 5rem;
+}
